@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a>
+  <a href="http://Dinesh jadhav/" target="_blank">soumyajit.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -24,7 +24,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to (https://dinesh9418.github.io/Dinesh_jadhav_portfolio/). Thanks!
 
 ## Built With
 

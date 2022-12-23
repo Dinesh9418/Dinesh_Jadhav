@@ -8,9 +8,7 @@ import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
-const resumeLink =
-  "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9518da9e-7abd-4bb8-b829-063266e59047/Untitled.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221012%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221012T070038Z&X-Amz-Expires=86400&X-Amz-Signature=47f66172c6e48349b0f66a3275b8ffb202e9529253b0f8c3e254e3c7ba9adb25&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.pdf%22&x-id=GetObject";
-       
+const resumeLink ="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0ccc822b-8572-40c6-89ad-cbd1ebc25b91/Dinesh_Resume.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221223%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221223T100739Z&X-Amz-Expires=86400&X-Amz-Signature=6a8fcb4cd9386b3dba3d751d5a0c449c752f56c792ba51fece85201392f51279&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Dinesh_Resume.pdf%22&x-id=GetObject"    
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
 

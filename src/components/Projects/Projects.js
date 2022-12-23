@@ -42,7 +42,7 @@ function Projects() {
               description="To design and develop the Weather web Application HTML, CSS
               JavaScript, React JS and API."
               ghLink="https://github.com/Dinesh9418/Weather-Application/tree/master"
-              // demoLink="https://blogs.soumya-jit.tech/"
+            
             />
           </Col>
         </Row>
